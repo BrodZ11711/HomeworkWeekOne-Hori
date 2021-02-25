@@ -5,3 +5,6 @@ In this weeks homework, i was a bit confused by the instructions. However the ch
 - Added comments to lines of codes to help others follow
 
 I am unsure if this was the task that was required, however i hope to hear back.
+
+GitHub Url: https://github.com/BrodZ11711/HomeworkWeekOne-Hori
+Deployed Website : https://brodz11711.github.io/HomeworkWeekOne-Hori/
